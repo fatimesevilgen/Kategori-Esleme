@@ -33,11 +33,11 @@ import torch
 from sklearn.utils import shuffle
 
 # 1. Veriyi yükle ve karıştır
-df = pd.read_csv("sample_event_data.csv")
+df = pd.read_csv("egitim_verisi.csv")
 df = shuffle(df, random_state=42).reset_index(drop=True)
 
-corpus_texts = df["text"].tolist()
-corpus_labels = df["label"].tolist()
+corpus_texts = df["CategoryName"].tolist()
+corpus_labels = df["GeneralCategory"].tolist()
 
 # 2. Model ve embedding
 model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
