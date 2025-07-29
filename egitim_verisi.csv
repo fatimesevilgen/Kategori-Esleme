@@ -4,9 +4,9 @@ Ascilik Ve Mutfak,Food & Drink
 Bilim Teknoloji,Technology
 Bilisim,Technology
 Caz Muzik,Music
-Cocuk Gelisimi,Health & Wellness
+Cocuk Gelisimi,Education
 Cocuk Tiyatrosu,Art & Culture
-Dans Ve Muzikal Gosteriler,Music
+Dans Ve Muzikal Gosteriler,Art & Culture
 Diger,Other
 Dogal Urunler,Food & Drink
 Egitim,Education
@@ -18,47 +18,47 @@ Egitim Ve Yetenek Gelistirme,Education
 Dil Ve Edebiyat,Education
 Dunya Muzik,Music
 Egitim Ogretim,Education
-Enerji Ve Cevre,Other
-Finans Ekonomi,Other
+Enerji Ve Cevre,Technology
+Finans Ekonomi,Business
 Fotografcilik,Art & Culture
 Fotoğrafçılık,Art & Culture
 Gastronomi,Food & Drink
-Gayrimenkul Insaat,Other
+Gayrimenkul Insaat,Business
 Gida,Food & Drink
-Girisimcilik,Other
-Hayvancilik,Other
+Girisimcilik,Business
+Hayvancilik,Business
 Hobi Yasam Tarzi,Other
-Hukuk,Other
-Insan Kaynaklari,Other
-Is Dunyasi,Other
-Kariyer,Other
-Kisisel Gelisim,Other
+Hukuk,Business
+Insan Kaynaklari,Business
+Is Dunyasi,Business
+Kariyer,Business
+Kisisel Gelisim,Health
 Klasik Muzik,Music
 Kultur Din,Art & Culture
-Medya Ve Iletisim,Other
+Medya Ve Iletisim,Business
 Ozgun Muzik,Music
 Parti Canli Muzik,Music
-Pazarlama,Other
+Pazarlama,Business
 Pop Muzik,Music
 Rock Muzik,Music
-Saglik Tip,Health & Wellness
+Saglik Tip,Health
 Sanat,Art & Culture
 Seyahat,Travel
 Sinema Film,Art & Culture
 Siyaset Politika,Other
-Sosyal Bilimler,Technology
+Sosyal Bilimler,Education
 Soul Muzik,Music
 Spor,Sports
-Tarih,Other
-Tarim,Other
-Tedarik Zinciri Ve Lojistik,Other
+Tarih,Education
+Tarim,Business
+Tedarik Zinciri Ve Lojistik,Business
 Tekstil Moda,Art & Culture
 Tiyatro Ve Gosteriler,Art & Culture
 Turizm,Travel
-Turk Sanat Halk Muzigi,Art & Culture
-Uretim Ve Muhendislik,Other
+Turk Sanat Halk Muzigi,Music
+Uretim Ve Muhendislik,Technology
 Yabanci Dil,Education
-Yonetim Ve Liderlik,Other
+Yonetim Ve Liderlik,Business
 Elektronik Muzik,Music
 Reggae Muzik,Music
 Hip Hop Rap,Music
@@ -72,9 +72,9 @@ Fizik,Education
 Kimya,Education
 Biyoloji,Education
 Astronomi,Education
-Yapay Zeka,Education
-Veri Bilimi,Education
-Robotik,Education
+Yapay Zeka,Technology
+Veri Bilimi,Technology
+Robotik,Technology
 Web Gelistirme,Technology
 Mobil Uygulama,Technology
 Siber Guvenlik,Technology
@@ -82,12 +82,12 @@ Blok Zincir,Technology
 Oyun Gelistirme,Technology
 Veri Tabani Yonetimi,Technology
 Sistem Ag Yonetimi,Technology
-Mindfulness,Health & Wellness
-Psikoloji,Health & Wellness
-Meditasyon,Health & Wellness
-Stres Yonetimi,Health & Wellness
-Iletisim Becerileri,Health & Wellness
-Liderlik Egitimi,Health & Wellness
+Mindfulness,Health
+Psikoloji,Health
+Meditasyon,Health
+Stres Yonetimi,Health
+Iletisim Becerileri,Education
+Liderlik Egitimi,Business
 Gastronomi,Food & Drink
 Pastacilik,Food & Drink
 Vegan Beslenme,Food & Drink
@@ -98,6 +98,7 @@ Fermente Urunler,Food & Drink
 Tiyatro,Art & Culture
 Sinema,Art & Culture
 Fotograf,Art & Culture
+CategoryName,GeneralCategory
 Edebiyat,Art & Culture
 Moda,Art & Culture
 Opera,Art & Culture
@@ -123,20 +124,20 @@ Yurtdisi Deneyimleri,Travel
 STEM,Education
 Erken Cocukluk,Education
 Ogrenme Stratejileri,Education
-Liderlik Egitimi,Education
+Liderlik Egitimi,Business
 Ogrenci Koclugu,Education
 Akademik Basari,Education
-Uyku Hijyeni,Health & Wellness
-Beslenme,Health & Wellness
-Psikolojik Saglik,Health & Wellness
-Kisisel Gelisim,Health & Wellness
-Cocuk Sagligi,Health & Wellness
-Pazarlama,Other
-Finans,Other
+Uyku Hijyeni,Health
+Beslenme,Health
+Psikolojik Saglik,Health
+Kisisel Gelisim,Health
+Cocuk Sagligi,Health
+Pazarlama,Business
+Finans,Business
 Hayvanseverlik,Other
 Gonulluluk,Other
 Toplum Hizmeti,Other
-Teknoloji Etigi,Other
+Teknoloji Etigi,Technology
 Indie Muzik,Music
 Enstrumantal,Music
 Otomasyon,Technology
@@ -151,16 +152,16 @@ Uzak Dogu Mutfagi,Food & Drink
 Organik Tarim,Food & Drink
 Kahvalti Kulturu,Food & Drink
 Cay Tadimi,Food & Drink
-Holistik Saglik,Health & Wellness
-Nefes Egzersizi,Health & Wellness
-Ayuverda,Health & Wellness
-Saglikli Aliskanliklar,Health & Wellness
-Yasli Bakimi,Health & Wellness
-Sporcu Sagligi,Health & Wellness
-Evde Egzersiz,Health & Wellness
-Mental Detoks,Health & Wellness
-Kadin Sagligi,Health & Wellness
-Pandemi Sonrasi Saglik,Health & Wellness
+Holistik Saglik,Health
+Nefes Egzersizi,Health
+Ayuverda,Health
+Saglikli Aliskanliklar,Health
+Yasli Bakimi,Health
+Sporcu Sagligi,Health
+Evde Egzersiz,Health
+Mental Detoks,Health
+Kadin Sagligi,Health
+Pandemi Sonrasi Saglik,Health
 Fermente Sosyolojisi,Food & Drink
 Gastronomi Tarihi,Food & Drink
 Yerel Yemek Rotasi,Food & Drink
@@ -171,16 +172,16 @@ Geleneksel Baharatlar,Food & Drink
 Surdurulebilir Gida,Food & Drink
 Sef Teknikleri,Food & Drink
 Kahve Kulturleri,Food & Drink
-Aromaterapi,Health & Wellness
-Enerji Sifa,Health & Wellness
-Biyoenerji,Health & Wellness
-Kriyoterapi,Health & Wellness
-Sanat Terapisi,Health & Wellness
-Reflexoloji,Health & Wellness
-Dogal Detoks,Health & Wellness
-Vucut Dengeleme,Health & Wellness
-Spirituel Gelisim,Health & Wellness
-Transandantal Meditasyon,Health & Wellness
+Aromaterapi,Health
+Enerji Sifa,Health
+Biyoenerji,Health
+Kriyoterapi,Health
+Sanat Terapisi,Health
+Reflexoloji,Health
+Dogal Detoks,Health
+Vucut Dengeleme,Health
+Spirituel Gelisim,Health
+Transandantal Meditasyon,Health
 Synthwave,Music
 Trap,Music
 K-Pop,Music
@@ -243,7 +244,7 @@ Gastronomi Turlari,Food & Drink
 Grafik Tasarim,Art & Culture
 Heykel Sanati,Art & Culture
 Kaligrafi,Art & Culture
-Tarih Arastirmalari,Art & Culture
+Tarih Arastirmalari,Education
 Sokak Sanati,Art & Culture
 Cagdas Sanat,Art & Culture
 Mimari Tasarim,Art & Culture
@@ -301,7 +302,7 @@ Bisiklet Turlari,Travel
 Luks Seyahat,Travel
 Kultur Mirası Gezileri,Travel
 Uzaktan Egitim,Education
-Liderlik Egitimi,Education
+Liderlik Egitimi,Business
 STEM Programlari,Education
 Egitim Teknolojileri,Education
 Akademik Yazim,Education
@@ -316,49 +317,49 @@ Erken Cocukluk Egitimi,Education
 Sertifika Programlari,Education
 Elestirel Dusunme,Education
 Mentorluk Programlari,Education
-Kariyer Planlama,Education
+Kariyer Planlama,Business
 Egitim Sosyolojisi,Education
 Akademik Konferanslar,Education
 Ogrenci Koclugu,Education
-Yoga Meditasyonu,Health & Wellness
-Aromaterapi,Health & Wellness
-Refleksoloji,Health & Wellness
-Bitkisel Tedavi,Health & Wellness
-Saglikli Beslenme,Health & Wellness
-Nefes Egzersizleri,Health & Wellness
-Mental Saglik,Health & Wellness
-Fiziksel Rehabilitasyon,Health & Wellness
-Kisisel Gelisim,Health & Wellness
-Alternatif Tip,Health & Wellness
-Kriyoterapi,Health & Wellness
-Sporcu Rehabilitasyonu,Health & Wellness
-Stres Yonetimi,Health & Wellness
-Biyoenerji,Health & Wellness
-Detoks Programlari,Health & Wellness
-Uyku Hijyeni,Health & Wellness
-Kadin Sagligi,Health & Wellness
-Meditasyon Teknikleri,Health & Wellness
-Sifa Sanati,Health & Wellness
-Zihin Beden Baglantisi,Health & Wellness
-Girişimcilik,Other
-Pazarlama Stratejileri,Other
+Yoga Meditasyonu,Health
+Aromaterapi,Health
+Refleksoloji,Health
+Bitkisel Tedavi,Health
+Saglikli Beslenme,Health
+Nefes Egzersizleri,Health
+Mental Saglik,Health
+Fiziksel Rehabilitasyon,Health
+Kisisel Gelisim,Health
+Alternatif Tip,Health
+Kriyoterapi,Health
+Sporcu Rehabilitasyonu,Health
+Stres Yonetimi,Health
+Biyoenerji,Health
+Detoks Programlari,Health
+Uyku Hijyeni,Health
+Kadin Sagligi,Health
+Meditasyon Teknikleri,Health
+Sifa Sanati,Health
+Zihin Beden Baglantisi,Health
+Girişimcilik,Business
+Pazarlama Stratejileri,Business
 Sosyal Sorumluluk,Other
-Iklim Degişikligi,Other
-Kriz Yonetimi,Other
+Iklim Degişikligi,Other
+Kriz Yonetimi,Business
 Kulturel Farkindalik,Other
-Bireysel Finans,Other
-Teknoloji Etigi,Other
+Bireysel Finans,Business
+Teknoloji Etigi,Technology
 Toplumsal Cinsiyet,Other
 Toplum Hizmeti,Other
 Gonulluluk,Other
-Finansal Okuryazarlik,Other
+Finansal Okuryazarlik,Business
 Medya Analizi,Other
 Hukuk Reformu,Other
-Gayrimenkul Yatirimi,Other
-Sosyal Bilimler Arastirmalari,Other
-Veri Gizliligi,Other
-Dijital Donusum,Other
-Kariyer Gelisimi,Other
+Gayrimenkul Yatirimi,Business
+Sosyal Bilimler Arastirmalari,Education
+Veri Gizliligi,Technology
+Dijital Donusum,Technology
+Kariyer Gelisimi,Business
 Kulturel Politikalar,Other
 Vaporwave,Music
 Synthpop,Music
@@ -412,9 +413,9 @@ Soguk Icecekler,Food & Drink
 Pisme Teknikleri,Food & Drink
 Peynir Cesitleri,Food & Drink
 Yoresel Corbalar,Food & Drink
-Sef Yarismlari,Food & Drink
+Sef Yarismalari,Food & Drink
 Yemek Fotografciligi,Food & Drink
-Restoran Yonetimi,Food & Drink
+Restoran Yonetimi,Business
 Kahve Demleme Teknikleri,Food & Drink
 Cikolata Sanati,Food & Drink
 Barista Kurslari,Food & Drink
@@ -476,50 +477,51 @@ Sertifikasyon Programlari,Education
 Ozel Egitim,Education
 STEM Atolyeleri,Education
 Uzaktan Kurslar,Education
-Liderlik Gelisimi,Education
+Liderlik Gelisimi,Business
 Beceri Gelistirme,Education
 Egitimde Yenilikler,Education
 Mentorluk,Education
-Homeopati,Health & Wellness
-Nefes Teknikleri,Health & Wellness
-Holistik Terapi,Health & Wellness
-Biofeedback,Health & Wellness
-Ayran Terapisi,Health & Wellness
-Dogal Kozmetik,Health & Wellness
-Spor Fizyoterapisi,Health & Wellness
-Reiki,Health & Wellness
-Saglikli Yasam Tarzi,Health & Wellness
-Ayurveda,Health & Wellness
-Detoks Yontemleri,Health & Wellness
-Alternatif Tedavi,Health & Wellness
-Mental Saglik Programlari,Health & Wellness
-Zihin Beden Denge,Health & Wellness
-Vitamin Tedavisi,Health & Wellness
-Fizik Tedavi,Health & Wellness
-Aromatik Bitkiler,Health & Wellness
-Yasam Koclugu,Health & Wellness
-Kisisel Bakim,Health & Wellness
-Geleneksel Sifa,Health & Wellness
-Kriz Yonetimi,Other
+Homeopati,Health
+Nefes Teknikleri,Health
+Holistik Terapi,Health
+Biofeedback,Health
+Ayran Terapisi,Health
+Dogal Kozmetik,Health
+Spor Fizyoterapisi,Health
+Reiki,Health
+Saglikli Yasam Tarzi,Health
+Ayurveda,Health
+Detoks Yontemleri,Health
+Alternatif Tedavi,Health
+Mental Saglik Programlari,Health
+Zihin Beden Denge,Health
+Vitamin Tedavisi,Health
+Fizik Tedavi,Health
+Aromatik Bitkiler,Health
+CategoryName,GeneralCategory
+Yasam Koclugu,Health
+Kisisel Bakim,Health
+Geleneksel Sifa,Health
+Kriz Yonetimi,Business
 Toplumsal Cinsiyet Calismalari,Other
 Gonulluluk Programlari,Other
-Sosyal Girisimler,Other
-Finansal Planlama,Other
+Sosyal Girisimler,Business
+Finansal Planlama,Business
 Cevre Politikaları,Other
-Medya Stratejileri,Other
-Is Dunyasi Analizi,Other
-Sosyal Medya Yonetimi,Other
-Hukuk Danismanligi,Other
+Medya Stratejileri,Business
+Is Dunyasi Analizi,Business
+Sosyal Medya Yonetimi,Business
+Hukuk Danismanligi,Business
 Toplum Arastirmalari,Other
 Kulturel Politikalar,Other
-Kariyer Gelisimi,Other
-Dijital Pazarlama,Other
-Veri Gizliligi,Other
-Is Hayati Egitimi,Other
-Enerji Sektoru,Other
+Kariyer Gelisimi,Business
+Dijital Pazarlama,Business
+Veri Gizliligi,Technology
+Is Hayati Egitimi,Business
+Enerji Sektoru,Business
 Multeciler Ve Goc,Other
-Teknoloji Etik,Other
-Inovasyon Yonetimi,Other
+Teknoloji Etik,Technology
+Inovasyon Yonetimi,Business
 Yüksek Öğretim,Education
 İlköğretim,Education
 Ortaöğretim,Education
@@ -670,7 +672,7 @@ Funk,Music
 Metal,Music
 Reggae,Music
 Indie,Music
-Rock’n Roll,Music
+Rock'n Roll,Music
 Soul,Music
 R&B,Music
 Türk Müziği,Music
@@ -702,15 +704,15 @@ Piyano Müzik,Music
 Vokal,Music
 A Capella,Music
 Müzik Atölyesi,Music
-Müzik Eğitimleri,Music
-Müzik Dersi,Music
+Müzik Eğitimleri,Education
+Müzik Dersi,Education
 Çocuk Müziği,Music
 Müzikal Gösteri,Music
 Jam Session,Music
 Beat,Music
 Enstrüman Çalışmaları,Music
 Akor,Music
-Koreografi,Music
+Koreografi,Art & Culture
 Sözlü Müzik,Music
 Şarkı Sözü,Music
 Müzik Video,Music
@@ -728,7 +730,7 @@ Solo Performans,Music
 Grup Performansı,Music
 Deneysel Müzik,Music
 Enstrümantal Müzik,Music
-Müzik Terapisi,Music
+Müzik Terapisi,Health
 Müzik Enstrümanları,Music
 Akustik Performans,Music
 Müzik Yayını,Music
@@ -749,14 +751,14 @@ Chillwave,Music
 Downtempo,Music
 Future Bass,Music
 Experimental,Music
-Müzik Kariyeri,Music
-Müzik Gelişimi,Music
+Müzik Kariyeri,Business
+Müzik Gelişimi,Education
 Orkestra Çalışmaları,Music
 Müzik Yorumlama,Music
 Şarkı Yapımı,Music
 Enstrümantal Çalışmalar,Music
 Çocuk Şarkıları,Music
-Müzik Prodüktörlüğü,Music
+Müzik Prodüktörlüğü,Business
 Film Müzikleri,Music
 Dizi Müzikleri,Music
 Müzikal Performans,Music
@@ -828,11 +830,11 @@ Sanat Müzikleri,Music
 Popüler Konser,Music
 Sesli Performans,Music
 Müzik İzleyicisi,Music
-Müzik Terapi,Music
-Öğretici Müzik,Music
-Müzik Gelişimi,Music
+Müzik Terapi,Health
+Öğretici Müzik,Education
+Müzik Gelişimi,Education
 Orkestral Müzik,Music
-Müzik Eğitimi,Music
+Müzik Eğitimi,Education
 Şarkı Yazarlığı,Music
 Yerel Müzik,Music
 Yenilikçi Müzik,Music
@@ -840,172 +842,172 @@ Hip Hop Konseri,Music
 Müzik Buluşması,Music
 Kültürel Müzik,Music
 Konser Verme,Music
-Enstrüman Öğrenme,Music
+Enstrüman Öğrenme,Education
 Global Müzik,Music
-Klasik Eğitim,Music
+Klasik Eğitim,Education
 Solo Performans,Music
 Katılımcı Müzik,Music
 Repertuar,Music
 Genç Müzik,Music
 Toplu Performans,Music
-Müzik Bilgisi,Music
-Müzik Analizi,Music
+Müzik Bilgisi,Education
+Müzik Analizi,Education
 Orkestra Ekipmanı,Music
 Eğlenceli Müzik,Music
-Müzik Teorisi,Music
+Müzik Teorisi,Education
 Uzakdoğu Müzikleri,Music
-Müzik Psikolojisi,Music
+Müzik Psikolojisi,Education
 Müzik Dinleme,Music
 Enstrümantal Konser,Music
-Fitness,Health & Wellness
-Beslenme,Health & Wellness
-Zihinsel Sağlık,Health & Wellness
-Fiziksel Terapi,Health & Wellness
-Yoga,Health & Wellness
-Pilates,Health & Wellness
-Meditasyon,Health & Wellness
-Uyku Sağlığı,Health & Wellness
-Stres Yönetimi,Health & Wellness
-Kronik Ağrı Yönetimi,Health & Wellness
-Zayıflama,Health & Wellness
-Sağlıklı Beslenme,Health & Wellness
-Sporcu Beslenmesi,Health & Wellness
-Farkındalık,Health & Wellness
-Vegan Diyeti,Health & Wellness
-Vejetaryen Diyeti,Health & Wellness
-Gluten-Free Diyeti,Health & Wellness
-Keto Diyeti,Health & Wellness
-Aralıklı Oruç,Health & Wellness
-Holistik Sağlık,Health & Wellness
-Ayurveda,Health & Wellness
-Bitkisel Tedavi,Health & Wellness
-Masaj Terapisi,Health & Wellness
-Akupunktur,Health & Wellness
-Kiropraktik Bakım,Health & Wellness
-Reiki,Health & Wellness
-Aromaterapi,Health & Wellness
-Detoks,Health & Wellness
-Sıkılaşma,Health & Wellness
-Şifalı Bitkiler,Health & Wellness
-Organik Gıda,Health & Wellness
-Takviyeler,Health & Wellness
-Hidrasyon,Health & Wellness
-Fitness Dersleri,Health & Wellness
-Kişisel Eğitim,Health & Wellness
-Sağlık Koçluğu,Health & Wellness
-Kilo Yönetimi,Health & Wellness
-Kendine Bakım,Health & Wellness
-Zihinsel Sağlık Danışmanlığı,Health & Wellness
-Bağımlılık Tedavisi,Health & Wellness
-Depresyon Yönetimi,Health & Wellness
-Anksiyete Yönetimi,Health & Wellness
-Bilişsel Davranışçı Terapi,Health & Wellness
-Hayat Koçluğu,Health & Wellness
-Pozitif Psikoloji,Health & Wellness
-Yas Danışmanlığı,Health & Wellness
-Terapi Hayvanları,Health & Wellness
-Stres Rahatlatıcı Yöntemler,Health & Wellness
-Nefes Egzersizleri,Health & Wellness
-Kendine Merhamet,Health & Wellness
-Ruhsal Sağlık,Health & Wellness
-Alternatif Tıp,Health & Wellness
-Sağlık Geri Çekilmeleri,Health & Wellness
-Holistik Beslenme,Health & Wellness
-Ağrı Hafifletme,Health & Wellness
-Fiziksel Fitness,Health & Wellness
-Koşu,Health & Wellness
-Bisiklet,Health & Wellness
-Ağırsiklet,Health & Wellness
-Esneme Antrenmanı,Health & Wellness
-Yüzme,Health & Wellness
-Dağcılık,Health & Wellness
-Ekip Sporları,Health & Wellness
-Savaş Sanatları,Health & Wellness
-Esneme,Health & Wellness
-Kardiyo,Health & Wellness
-Ağırsiklet,Health & Wellness
-CrossFit,Health & Wellness
-Yüksek Yoğunluklu Antrenman,Health & Wellness
-Sporcu Yaralanmaları,Health & Wellness
-Duruş Düzeltme,Health & Wellness
-Uyku Bozuklukları,Health & Wellness
-Uyku Hijyeni,Health & Wellness
-Restoratif Yoga,Health & Wellness
-Güçlü Yoga,Health & Wellness
-Vinyasa Yoga,Health & Wellness
-Hatha Yoga,Health & Wellness
-Yin Yoga,Health & Wellness
-Sıcak Yoga,Health & Wellness
-Yoga Esneklik İçin,Health & Wellness
-Yoga Güç İçin,Health & Wellness
-Yoga Stresi Azaltma İçin,Health & Wellness
-Zihin-Beden Bağlantısı,Health & Wellness
-Fitness Takip Cihazları,Health & Wellness
-Giyilebilir Sağlık Cihazları,Health & Wellness
-Sağlık Uygulamaları,Health & Wellness
-Yemek Planlama,Health & Wellness
-Yemek Hazırlığı,Health & Wellness
-Egzersiz Rutinleri,Health & Wellness
-Kardiyovasküler Sağlık,Health & Wellness
-Eklemler Sağlığı,Health & Wellness
-Kemik Sağlığı,Health & Wellness
-Bağışıklık Sistemi Güçlendirme,Health & Wellness
-Sindirim Sağlığı,Health & Wellness
-Cilt Bakımı,Health & Wellness
-Saç Bakımı,Health & Wellness
-Ağız Sağlığı,Health & Wellness
-Zihinsel Netlik,Health & Wellness
-Bilişsel Sağlık,Health & Wellness
-Beyin Sağlığı,Health & Wellness
-Odaklanma ve Konsantrasyon,Health & Wellness
-Sinir Sistemi Sağlığı,Health & Wellness
-Hormonal Sağlık,Health & Wellness
-Kadın Sağlığı,Health & Wellness
-Erkek Sağlığı,Health & Wellness
-Yaşlı Sağlığı,Health & Wellness
-Aile Sağlığı,Health & Wellness
-Hamilelik Sağlığı,Health & Wellness
-Doğum Sonrası Sağlık,Health & Wellness
-Bebek Bakımı,Health & Wellness
-Çocuk Sağlığı,Health & Wellness
-Genç Sağlığı,Health & Wellness
-Ergen Sağlığı,Health & Wellness
-Bağışıklık Desteği,Health & Wellness
-Yaşlanma Karşıtı,Health & Wellness
-Sağlık Programları,Health & Wellness
-Zayıflama Programları,Health & Wellness
-Detoks Programları,Health & Wellness
-Holistik İyileşme,Health & Wellness
-Bitkisel Takviyeler,Health & Wellness
-Kiropraktik,Health & Wellness
-Akupresür,Health & Wellness
-Ayak Terapisi,Health & Wellness
-Sıcak Taş Terapisi,Health & Wellness
-Aromaterapi Masajı,Health & Wellness
-Ağrı Hafifletme Yöntemleri,Health & Wellness
-Şifa Terapileri,Health & Wellness
-Alternatif Şifa,Health & Wellness
-Stresten Arınma,Health & Wellness
-Sağlıklı Yaşam Seçimleri,Health & Wellness
-Sağlık Geri Çekilmeleri,Health & Wellness
-Kendine Bakım Uygulamaları,Health & Wellness
-Kişisel Sağlık,Health & Wellness
-Enerji İyileştirme,Health & Wellness
-Ruhsal Sağlık,Health & Wellness
-Zayıflama Stratejileri,Health & Wellness
-Kronik Hastalık Yönetimi,Health & Wellness
-Holistik Zayıflama,Health & Wellness
-Sağlık Koçluğu,Health & Wellness
-Alternatif Terapiler,Health & Wellness
+Fitness,Health
+Beslenme,Health
+Zihinsel Sağlık,Health
+Fiziksel Terapi,Health
+Yoga,Health
+Pilates,Health
+Meditasyon,Health
+Uyku Sağlığı,Health
+Stres Yönetimi,Health
+Kronik Ağrı Yönetimi,Health
+Zayıflama,Health
+Sağlıklı Beslenme,Health
+Sporcu Beslenmesi,Health
+Farkındalık,Health
+Vegan Diyeti,Health
+Vejetaryen Diyeti,Health
+Gluten-Free Diyeti,Health
+Keto Diyeti,Health
+Aralıklı Oruç,Health
+Holistik Sağlık,Health
+Ayurveda,Health
+Bitkisel Tedavi,Health
+Masaj Terapisi,Health
+Akupunktur,Health
+Kiropraktik Bakım,Health
+Reiki,Health
+Aromaterapi,Health
+Detoks,Health
+Sıkılaşma,Health
+Şifalı Bitkiler,Health
+Organik Gıda,Health
+Takviyeler,Health
+Hidrasyon,Health
+Fitness Dersleri,Health
+Kişisel Eğitim,Health
+Sağlık Koçluğu,Health
+Kilo Yönetimi,Health
+Kendine Bakım,Health
+Zihinsel Sağlık Danışmanlığı,Health
+Bağımlılık Tedavisi,Health
+Depresyon Yönetimi,Health
+Anksiyete Yönetimi,Health
+Bilişsel Davranışçı Terapi,Health
+Hayat Koçluğu,Health
+Pozitif Psikoloji,Health
+Yas Danışmanlığı,Health
+Terapi Hayvanları,Health
+Stres Rahatlatıcı Yöntemler,Health
+Nefes Egzersizleri,Health
+Kendine Merhamet,Health
+Ruhsal Sağlık,Health
+Alternatif Tıp,Health
+Sağlık Geri Çekilmeleri,Health
+Holistik Beslenme,Health
+Ağrı Hafifletme,Health
+Fiziksel Fitness,Sports
+Koşu,Sports
+Bisiklet,Sports
+Ağırsiklet,Sports
+Esneme Antrenmanı,Sports
+Yüzme,Sports
+Dağcılık,Sports
+Ekip Sporları,Sports
+Savaş Sanatları,Sports
+Esneme,Sports
+Kardiyo,Sports
+Ağırsiklet,Sports
+CrossFit,Sports
+Yüksek Yoğunluklu Antrenman,Sports
+Sporcu Yaralanmaları,Health
+Duruş Düzeltme,Health
+Uyku Bozuklukları,Health
+Uyku Hijyeni,Health
+Restoratif Yoga,Health
+Güçlü Yoga,Sports
+Vinyasa Yoga,Health
+Hatha Yoga,Health
+Yin Yoga,Health
+Sıcak Yoga,Health
+Yoga Esneklik İçin,Health
+Yoga Güç İçin,Sports
+Yoga Stresi Azaltma İçin,Health
+Zihin-Beden Bağlantısı,Health
+Fitness Takip Cihazları,Technology
+Giyilebilir Sağlık Cihazları,Technology
+Sağlık Uygulamaları,Technology
+Yemek Planlama,Health
+Yemek Hazırlığı,Food & Drink
+Egzersiz Rutinleri,Sports
+Kardiyovasküler Sağlık,Health
+Eklemler Sağlığı,Health
+Kemik Sağlığı,Health
+Bağışıklık Sistemi Güçlendirme,Health
+Sindirim Sağlığı,Health
+Cilt Bakımı,Health
+Saç Bakımı,Health
+Ağız Sağlığı,Health
+Zihinsel Netlik,Health
+Bilişsel Sağlık,Health
+Beyin Sağlığı,Health
+Odaklanma ve Konsantrasyon,Health
+Sinir Sistemi Sağlığı,Health
+Hormonal Sağlık,Health
+Kadın Sağlığı,Health
+Erkek Sağlığı,Health
+Yaşlı Sağlığı,Health
+Aile Sağlığı,Health
+Hamilelik Sağlığı,Health
+Doğum Sonrası Sağlık,Health
+Bebek Bakımı,Health
+Çocuk Sağlığı,Health
+Genç Sağlığı,Health
+Ergen Sağlığı,Health
+Bağışıklık Desteği,Health
+Yaşlanma Karşıtı,Health
+Sağlık Programları,Health
+Zayıflama Programları,Health
+Detoks Programları,Health
+Holistik İyileşme,Health
+Bitkisel Takviyeler,Health
+Kiropraktik,Health
+Akupresür,Health
+Ayak Terapisi,Health
+Sıcak Taş Terapisi,Health
+Aromaterapi Masajı,Health
+Ağrı Hafifletme Yöntemleri,Health
+Şifa Terapileri,Health
+Alternatif Şifa,Health
+Stresten Arınma,Health
+Sağlıklı Yaşam Seçimleri,Health
+Sağlık Geri Çekilmeleri,Health
+Kendine Bakım Uygulamaları,Health
+Kişisel Sağlık,Health
+Enerji İyileştirme,Health
+Ruhsal Sağlık,Health
+Zayıflama Stratejileri,Health
+Kronik Hastalık Yönetimi,Health
+Holistik Zayıflama,Health
+Sağlık Koçluğu,Health
+Alternatif Terapiler,Health
 Sanat Sergileri,Art & Culture
 Sanat Galerileri,Art & Culture
 Tiyatro Gösterileri,Art & Culture
 Dans Gösterileri,Art & Culture
 Film Festivalleri,Art & Culture
-Müzik Konserleri,Art & Culture
+Müzik Konserleri,Music
 Opera,Art & Culture
 Bale,Art & Culture
-Caz Festivalleri,Art & Culture
+Caz Festivalleri,Music
 Kültürel Festivaller,Art & Culture
 Sanat Enstalasyonları,Art & Culture
 Sokak Sanatı,Art & Culture
@@ -1028,7 +1030,7 @@ Kitap Fuarları,Art & Culture
 Okuma Etkinlikleri,Art & Culture
 Yazarlık Atölyeleri,Art & Culture
 Tiyatro Prodüksiyonları,Art & Culture
-Müzikal Gösteriler,Art & Culture
+Müzikal Gösteriler,Music
 Drama,Art & Culture
 Komedi Gösterileri,Art & Culture
 Tarihsel Oyunlar,Art & Culture
@@ -1037,31 +1039,31 @@ Sanatsal Hareketler,Art & Culture
 Dans Festivalleri,Art & Culture
 Opera Performansları,Art & Culture
 Sirk Sanatları,Art & Culture
-Kültür Turları,Art & Culture
+Kültür Turları,Travel
 Müzeler,Art & Culture
 Müze Sergileri,Art & Culture
 Müze Etkinlikleri,Art & Culture
-Sanat Eğitimi,Art & Culture
-Yaratıcı Yazarlık,Art & Culture
-Sanat Tarihi,Art & Culture
+Sanat Eğitimi,Education
+Yaratıcı Yazarlık,Education
+Sanat Tarihi,Education
 Film Gösterimleri,Art & Culture
 Film Prömiyerleri,Art & Culture
 Belgeseller,Art & Culture
 Kısa Filmler,Art & Culture
 Film Eleştirisi,Art & Culture
 Kültürel Diyaloglar,Art & Culture
-Antropoloji,Art & Culture
-Müzik Tarihi,Art & Culture
+Antropoloji,Education
+Müzik Tarihi,Education
 Kültürel Etkinlikler,Art & Culture
 Kültürel Kuruluşlar,Art & Culture
-Sanat Galerisi Turları,Art & Culture
+Sanat Galerisi Turları,Travel
 Kültürel Alanlar,Art & Culture
 Pop Art,Art & Culture
-Klasik Müzik,Art & Culture
-Caz Müzik,Art & Culture
-Dünya Müzikleri,Art & Culture
-Halk Müzikleri,Art & Culture
-Rock Müzik,Art & Culture
+Klasik Müzik,Music
+Caz Müzik,Music
+Dünya Müzikleri,Music
+Halk Müzikleri,Music
+Rock Müzik,Music
 Film Festivalleri Dünyada,Art & Culture
 Sanat Eleştirisi,Art & Culture
 Halka Açık Sanat,Art & Culture
@@ -1070,17 +1072,17 @@ Moda Gösterileri,Art & Culture
 Moda Sergileri,Art & Culture
 Kültürel Miras Alanları,Art & Culture
 El Sanatları,Art & Culture
-Sanat Terapisi,Art & Culture
+Sanat Terapisi,Health
 Grafik Tasarım,Art & Culture
 Sokak Performansları,Art & Culture
-Müzik Konserleri Dünyada,Art & Culture
+Müzik Konserleri Dünyada,Music
 Kültürel Koruma,Art & Culture
 Sanat Koleksiyonculuğu,Art & Culture
 Sanat Müzayedeleri,Art & Culture
 El Yapımı Ürünler,Art & Culture
-Kültürel Turlar,Art & Culture
+Kültürel Turlar,Travel
 Klasik Sanat,Art & Culture
-Geleneksel Müzik,Art & Culture
+Geleneksel Müzik,Music
 Müze Koleksiyonları,Art & Culture
 Miras Alanları,Art & Culture
 Tiyatro Grupları,Art & Culture
@@ -1098,7 +1100,7 @@ Görsel Sanatlar,Art & Culture
 Kültürel Temsil,Art & Culture
 Etkileşimli Sanat,Art & Culture
 Müze Kürasyonu,Art & Culture
-Sanat Eğitimi Çocuklar İçin,Art & Culture
+Sanat Eğitimi Çocuklar İçin,Education
 Kültürel Semboller,Art & Culture
 Müzik Sosyal Değişim İçin,Art & Culture
 Küresel Sanat,Art & Culture
@@ -1106,7 +1108,7 @@ Yabancı Dilde Tiyatro,Art & Culture
 Etkileşimli Sanat,Art & Culture
 Kültürel Haritalama,Art & Culture
 Sanat ve Teknoloji,Art & Culture
-Müzik İşbirlikleri,Art & Culture
+Müzik İşbirlikleri,Music
 Belgesel Sineması,Art & Culture
 Kültürel Festivaller Dünyada,Art & Culture
 Halka Açık Sanat Enstalasyonları,Art & Culture
@@ -1218,14 +1220,14 @@ Tai Chi,Sports
 Esneme,Sports
 Zumba,Sports
 Aerobik,Sports
-Dans,Sports
-Bale,Sports
-Hip Hop Dansı,Sports
-Caz Dansı,Sports
-Çağdaş Dans,Sports
-Salsa,Sports
-Tango,Sports
-Breakdans,Sports
+Dans,Art & Culture
+Bale,Art & Culture
+Hip Hop Dansı,Art & Culture
+Caz Dansı,Art & Culture
+Çağdaş Dans,Art & Culture
+Salsa,Art & Culture
+Tango,Art & Culture
+Breakdans,Art & Culture
 Kapoeira,Sports
 Savaş Sanatları,Sports
 Karate,Sports
@@ -1245,21 +1247,21 @@ Dayanıklılık Antrenmanı,Sports
 Güç Antrenmanı,Sports
 Kardiyo Antrenmanı,Sports
 Fonksiyonel Antrenman,Sports
-Spor Beslenmesi,Sports
-Spor Psikolojisi,Sports
-Spor Tıbbı,Sports
-Spor Rehabilitasyonu,Sports
+Spor Beslenmesi,Health
+Spor Psikolojisi,Health
+Spor Tıbbı,Health
+Spor Rehabilitasyonu,Health
 Atletik Antrenman,Sports
-Spor Bilimi,Sports
-Spor Koçluğu,Sports
-Spor Yönetimi,Sports
-Spor Pazarlaması,Sports
-Spor Gazeteciliği,Sports
-Spor Fotoğrafçılığı,Sports
-Spor Yayıncılığı,Sports
-Spor Yorumculuğu,Sports
-Spor Sponsorlukları,Sports
-Spor Hukuku,Sports
+Spor Bilimi,Education
+Spor Koçluğu,Education
+Spor Yönetimi,Business
+Spor Pazarlaması,Business
+Spor Gazeteciliği,Business
+Spor Fotoğrafçılığı,Art & Culture
+Spor Yayıncılığı,Business
+Spor Yorumculuğu,Business
+Spor Sponsorlukları,Business
+Spor Hukuku,Business
 Spor Etkinlikleri,Sports
 Spor Turnuvaları,Sports
 Spor Festivalleri,Sports
@@ -1269,22 +1271,22 @@ Spor Kulüpleri,Sports
 Spor Kuruluşları,Sports
 Fantazi Sporlar,Sports
 Esports,Sports
-Video Oyunları,Sports
-Spor Yayıncılığı,Sports
+Video Oyunları,Technology
+Spor Yayıncılığı,Business
 Spor Etkileşimi,Sports
-Spor Teknolojisi,Sports
-Giyilebilir Spor Cihazları,Sports
-Spor Analitiği,Sports
+Spor Teknolojisi,Technology
+Giyilebilir Spor Cihazları,Technology
+Spor Analitiği,Technology
 Spor Performansı,Sports
-Spor Yayıncılığı,Sports
-Atlet Sponsorlukları,Sports
-Spor Modası,Sports
-Spor Taraftar Ekipmanları,Sports
-Spor Giyim,Sports
-Fitness Ekipmanları,Sports
-Jimnastik Ekipmanları,Sports
-Spor Tesisleri,Sports
-Spor Erişilebilirliği,Sports
+Spor Yayıncılığı,Business
+Atlet Sponsorlukları,Business
+Spor Modası,Art & Culture
+Spor Taraftar Ekipmanları,Other
+Spor Giyim,Other
+Fitness Ekipmanları,Other
+Jimnastik Ekipmanları,Other
+Spor Tesisleri,Other
+Spor Erişilebilirliği,Other
 Adaptif Sporlar,Sports
 Yazılım Geliştirme,Technology
 Yapay Zeka,Technology
