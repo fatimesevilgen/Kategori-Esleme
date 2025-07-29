@@ -1,72 +1,72 @@
 CategoryName,GeneralCategory
-Alternatif Muzik,Music
-Ascilik Ve Mutfak,Food & Drink
+Alternatif Müzik,Music
+Aşçılık Ve Mutfak,Food & Drink
 Bilim Teknoloji,Technology
-Bilisim,Technology
-Caz Muzik,Music
-Cocuk Gelisimi,Education
-Cocuk Tiyatrosu,Art & Culture
-Dans Ve Muzikal Gosteriler,Art & Culture
-Diger,Other
-Dogal Urunler,Food & Drink
-Egitim,Education
-Egitim Teknolojileri,Education
-Egitim Ve Kariyer,Education
-Egitim Ve Ogrenme,Education
-Egitim Ve Ozel Egitim,Education
-Egitim Ve Yetenek Gelistirme,Education
+Bilişim,Technology
+Caz Müzik,Music
+Çocuk Gelişimi,Education
+Çocuk Tiyatrosu,Art & Culture
+Dans Ve Müzikal Gösteriler,Art & Culture
+Diğer,Other
+Doğal Ürünler,Food & Drink
+Eğitim,Education
+Eğitim Teknolojileri,Education
+Eğitim Ve Kariyer,Education
+Eğitim Ve Öğrenme,Education
+Eğitim Ve Özel Eğitim,Education
+Eğitim Ve Yetenek Geliştirme,Education
 Dil Ve Edebiyat,Education
-Dunya Muzik,Music
-Egitim Ogretim,Education
-Enerji Ve Cevre,Technology
+Dünya Müzik,Music
+Eğitim Öğretim,Education
+Enerji Ve Çevre,Technology
 Finans Ekonomi,Business
-Fotografcilik,Art & Culture
+Fotoğrafçılık,Art & Culture
 Fotoğrafçılık,Art & Culture
 Gastronomi,Food & Drink
-Gayrimenkul Insaat,Business
-Gida,Food & Drink
-Girisimcilik,Business
-Hayvancilik,Business
-Hobi Yasam Tarzi,Other
+Gayrimenkul İnşaat,Business
+Gıda,Food & Drink
+Girişimcilik,Business
+Hayvancılık,Business
+Hobi Yaşam Tarzı,Other
 Hukuk,Business
-Insan Kaynaklari,Business
-Is Dunyasi,Business
+İnsan Kaynakları,Business
+İş Dünyası,Business
 Kariyer,Business
-Kisisel Gelisim,Health
-Klasik Muzik,Music
-Kultur Din,Art & Culture
-Medya Ve Iletisim,Business
-Ozgun Muzik,Music
-Parti Canli Muzik,Music
+Kişisel Gelişim,Health
+Klasik Müzik,Music
+Kültür Din,Art & Culture
+Medya Ve İletişim,Business
+Özgün Müzik,Music
+Parti Canlı Müzik,Music
 Pazarlama,Business
-Pop Muzik,Music
-Rock Muzik,Music
-Saglik Tip,Health
+Pop Müzik,Music
+Rock Müzik,Music
+Sağlık Tıp,Health
 Sanat,Art & Culture
 Seyahat,Travel
 Sinema Film,Art & Culture
 Siyaset Politika,Other
 Sosyal Bilimler,Education
-Soul Muzik,Music
+Soul Müzik,Music
 Spor,Sports
 Tarih,Education
-Tarim,Business
+Tarım,Business
 Tedarik Zinciri Ve Lojistik,Business
 Tekstil Moda,Art & Culture
-Tiyatro Ve Gosteriler,Art & Culture
+Tiyatro Ve Gösteriler,Art & Culture
 Turizm,Travel
-Turk Sanat Halk Muzigi,Music
-Uretim Ve Muhendislik,Technology
-Yabanci Dil,Education
-Yonetim Ve Liderlik,Business
-Elektronik Muzik,Music
-Reggae Muzik,Music
+Türk Sanat Halk Müziği,Music
+Üretim Ve Mühendislik,Technology
+Yabancı Dil,Education
+Yönetim Ve Liderlik,Business
+Elektronik Müzik,Music
+Reggae Müzik,Music
 Hip Hop Rap,Music
-Metal Muzik,Music
+Metal Müzik,Music
 Funk Ve Disco,Music
-Enstrumantal Muzik,Music
-Film Muzikleri,Music
-Chillout Ambient Muzik,Music
+Enstrümantal Müzik,Music
+Film Müzikleri,Music
+Chillout Ambient Müzik,Music
 Matematik,Education
 Fizik,Education
 Kimya,Education
@@ -75,33 +75,33 @@ Astronomi,Education
 Yapay Zeka,Technology
 Veri Bilimi,Technology
 Robotik,Technology
-Web Gelistirme,Technology
+Web Geliştirme,Technology
 Mobil Uygulama,Technology
-Siber Guvenlik,Technology
+Siber Güvenlik,Technology
 Blok Zincir,Technology
-Oyun Gelistirme,Technology
-Veri Tabani Yonetimi,Technology
-Sistem Ag Yonetimi,Technology
+Oyun Geliştirme,Technology
+Veri Tabanı Yönetimi,Technology
+Sistem Ağ Yönetimi,Technology
 Mindfulness,Health
 Psikoloji,Health
 Meditasyon,Health
-Stres Yonetimi,Health
-Iletisim Becerileri,Education
-Liderlik Egitimi,Business
+Stres Yönetimi,Health
+İletişim Becerileri,Education
+Liderlik Eğitimi,Business
 Gastronomi,Food & Drink
-Pastacilik,Food & Drink
+Pastacılık,Food & Drink
 Vegan Beslenme,Food & Drink
-Kahve Kulturu,Food & Drink
+Kahve Kültürü,Food & Drink
 Yerel Lezzetler,Food & Drink
-Icecek Kulturu,Food & Drink
-Fermente Urunler,Food & Drink
+İçecek Kültürü,Food & Drink
+Fermente Ürünler,Food & Drink
 Tiyatro,Art & Culture
 Sinema,Art & Culture
-Fotograf,Art & Culture
+Fotoğraf,Art & Culture
 Edebiyat,Art & Culture
 Moda,Art & Culture
 Opera,Art & Culture
-Cizgi Roman,Art & Culture
+Çizgi Roman,Art & Culture
 Heykel,Art & Culture
 Resim,Art & Culture
 E-Spor,Sports
@@ -109,77 +109,77 @@ Futbol,Sports
 Basketbol,Sports
 Yoga,Sports
 Pilates,Sports
-Kosu,Sports
-Kampcilik,Sports
+Koşu,Sports
+Kampçılık,Sports
 Trekking,Sports
 Fitness,Sports
-Yerel Kulturler,Travel
+Yerel Kültürler,Travel
 Gezi Rehberi,Travel
-Kultur Turlari,Travel
-Dogal Alanlar,Travel
+Kültür Turları,Travel
+Doğal Alanlar,Travel
 Kamp Karavan,Travel
-Sehir Turlari,Travel
-Yurtdisi Deneyimleri,Travel
+Şehir Turları,Travel
+Yurtdışı Deneyimleri,Travel
 STEM,Education
-Erken Cocukluk,Education
-Ogrenme Stratejileri,Education
-Liderlik Egitimi,Business
-Ogrenci Koclugu,Education
-Akademik Basari,Education
+Erken Çocukluk,Education
+Öğrenme Stratejileri,Education
+Liderlik Eğitimi,Business
+Öğrenci Koçluğu,Education
+Akademik Başarı,Health
 Uyku Hijyeni,Health
 Beslenme,Health
-Psikolojik Saglik,Health
-Kisisel Gelisim,Health
-Cocuk Sagligi,Health
+Psikolojik Sağlık,Health
+Kişisel Gelişim,Health
+Çocuk Sağlığı,Health
 Pazarlama,Business
 Finans,Business
 Hayvanseverlik,Other
-Gonulluluk,Other
+Gönüllülük,Other
 Toplum Hizmeti,Other
-Teknoloji Etigi,Technology
-Indie Muzik,Music
-Enstrumantal,Music
+Teknoloji Etiği,Technology
+Indie Müzik,Music
+Enstrümantal,Music
 Otomasyon,Technology
-Bulut Bilisim,Technology
+Bulut Bilişim,Technology
 Metaverse,Technology
-Sarap Tadimi,Food & Drink
+Şarap Tadımı,Food & Drink
 Miksoloji,Food & Drink
-Barista Atolyesi,Food & Drink
+Barista Atölyesi,Food & Drink
 Fermente Yiyecekler,Food & Drink
 Glutensiz Mutfak,Food & Drink
-Uzak Dogu Mutfagi,Food & Drink
-Organik Tarim,Food & Drink
-Kahvalti Kulturu,Food & Drink
-Cay Tadimi,Food & Drink
-Holistik Saglik,Health
+Uzak Doğu Mutfağı,Food & Drink
+Organik Tarım,Food & Drink
+Kahvaltı Kültürü,Food & Drink
+Çay Tadımı,Food & Drink
+Holistik Sağlık,Health
 Nefes Egzersizi,Health
 Ayuverda,Health
-Saglikli Aliskanliklar,Health
-Yasli Bakimi,Health
-Sporcu Sagligi,Health
+Sağlıklı Alışkanlıklar,Health
+Yaşlı Bakımı,Health
+Sporcu Sağlığı,Health
 Evde Egzersiz,Health
 Mental Detoks,Health
-Kadin Sagligi,Health
-Pandemi Sonrasi Saglik,Health
+Kadın Sağlığı,Health
+Pandemi Sonrası Sağlık,Health
 Fermente Sosyolojisi,Food & Drink
 Gastronomi Tarihi,Food & Drink
-Yerel Yemek Rotasi,Food & Drink
-Bitki Bazli Diyetler,Food & Drink
-Sarap Kimyasi,Food & Drink
-Tatli Tasarimi,Food & Drink
+Yerel Yemek Rotası,Food & Drink
+Bitki Bazlı Diyetler,Food & Drink
+Şarap Kimyası,Food & Drink
+Tatlı Tasarımı,Food & Drink
 Geleneksel Baharatlar,Food & Drink
-Surdurulebilir Gida,Food & Drink
-Sef Teknikleri,Food & Drink
-Kahve Kulturleri,Food & Drink
+Sürdürülebilir Gıda,Food & Drink
+Şef Teknikleri,Food & Drink
+Kahve Kültürleri,Food & Drink
 Aromaterapi,Health
-Enerji Sifa,Health
+Enerji Şifa,Health
 Biyoenerji,Health
 Kriyoterapi,Health
 Sanat Terapisi,Health
 Reflexoloji,Health
-Dogal Detoks,Health
-Vucut Dengeleme,Health
-Spirituel Gelisim,Health
+Doğal Detoks,Health
+Vücut Dengeleme,Health
+Spiritual Gelişim,Health
 Transandantal Meditasyon,Health
 Synthwave,Music
 Trap,Music
@@ -197,169 +197,168 @@ Hardcore,Music
 Gospel,Music
 Psytrance,Music
 Jazz Fusion,Music
-LoFi Hip Hop,Music
 New Wave,Music
 Opera Rock,Music
 Kuantum Bilgisayar,Technology
-Bulut Bilisim,Technology
+Bulut Bilişim,Technology
 Siber Fizik,Technology
-Veri Guvenligi,Technology
+Veri Güvenliği,Technology
 Otomasyon Sistemleri,Technology
-Yapay Zeka Algoritmalari,Technology
+Yapay Zeka Algoritmaları,Technology
 Robotik Prototip,Technology
-Blok Zincir Uygulamalari,Technology
-Metaverse Platformlari,Technology
-Veri Analitigi,Technology
-Mobil Oyun Gelistirme,Technology
-Oyun Motorlari,Technology
-Endustri 4,Technology
-Nesnelerin Interneti,Technology
-Bilgi Yonetimi,Technology
-Sanal Gerceklik,Technology
-Yazilim Testi,Technology
-Ag Guvenligi,Technology
+Blok Zincir Uygulamaları,Technology
+Metaverse Platformları,Technology
+Veri Analitiği,Technology
+Mobil Oyun Geliştirme,Technology
+Oyun Motorları,Technology
+Endüstri 4,Technology
+Nesnelerin İnterneti,Technology
+Bilgi Yönetimi,Technology
+Sanal Gerçeklik,Technology
+Yazılım Testi,Technology
+Ağ Güvenliği,Technology
 Programlama Dilleri,Technology
 Veri Bilimi Projeleri,Technology
-Molekuler Gastronomi,Food & Drink
-Vegan Mutfagi,Food & Drink
-Sarap Kulturu,Food & Drink
+Moleküler Gastronomi,Food & Drink
+Vegan Mutfağı,Food & Drink
+Şarap Kültürü,Food & Drink
 Yerel Tatlar,Food & Drink
-Cay Kulturu,Food & Drink
+Çay Kültürü,Food & Drink
 Sokak Yemekleri,Food & Drink
 Kahve Demleme,Food & Drink
-Ev Yapimi Receller,Food & Drink
-Glutensiz Tatlilar,Food & Drink
-Tursu Yapimi,Food & Drink
-Deniz Urunleri,Food & Drink
-Organik Tarim,Food & Drink
-Fermente Gidalar,Food & Drink
-Tatli Sanati,Food & Drink
+Ev Yapımı Reçeller,Food & Drink
+Glutensiz Tatlılar,Food & Drink
+Turşu Yapımı,Food & Drink
+Deniz Ürünleri,Food & Drink
+Organik Tarım,Food & Drink
+Fermente Gıdalar,Food & Drink
+Tatlı Sanatı,Food & Drink
 Barista Teknikleri,Food & Drink
 Et Yemekleri,Food & Drink
-Baharat Karisimlari,Food & Drink
+Baharat Karışımları,Food & Drink
 Fast Food Trendleri,Food & Drink
-Kahvalti Kulturu,Food & Drink
-Gastronomi Turlari,Food & Drink
-Grafik Tasarim,Art & Culture
-Heykel Sanati,Art & Culture
+Kahvaltı Kültürü,Food & Drink
+Gastronomi Turları,Food & Drink
+Grafik Tasarım,Art & Culture
+Heykel Sanatı,Art & Culture
 Kaligrafi,Art & Culture
-Tarih Arastirmalari,Education
-Sokak Sanati,Art & Culture
-Cagdas Sanat,Art & Culture
-Mimari Tasarim,Art & Culture
-El Sanatlari,Art & Culture
-Fotografcilik Teknikleri,Art & Culture
+Tarih Araştırmaları,Education
+Sokak Sanatı,Art & Culture
+Çağdaş Sanat,Art & Culture
+Mimari Tasarım,Art & Culture
+El Sanatları,Art & Culture
+Fotoğrafçılık Teknikleri,Art & Culture
 Modern Dans,Art & Culture
 Kukla Tiyatrosu,Art & Culture
-Edebiyat Elestirisi,Art & Culture
+Edebiyat Eleştirisi,Art & Culture
 Moda Tarihi,Art & Culture
-Halk Danslari,Art & Culture
-Opera Performansi,Art & Culture
+Halk Dansları,Art & Culture
+Opera Performansı,Art & Culture
 Film Analizi,Art & Culture
-Ressamlik,Art & Culture
-Seramik Sanati,Art & Culture
+Ressamlık,Art & Culture
+Seramik Sanatı,Art & Culture
 Belgesel Film,Art & Culture
 Dijital Sanat,Art & Culture
-Dagcilik,Sports
-Bisiklet Yarisi,Sports
+Dağcılık,Sports
+Bisiklet Yarışı,Sports
 Yelken,Sports
 Atletizm,Sports
 Masa Tenisi,Sports
 Boks,Sports
 Kano,Sports
-Dalis,Sports
+Dalış,Sports
 Kayak,Sports
-Yuzme,Sports
-Fitness Programlari,Sports
-Yoga Egitimi,Sports
+Yüzme,Sports
+Fitness Programları,Sports
+Yoga Eğitimi,Sports
 Pilates,Sports
-Tenis Turnuvasi,Sports
-Kampcilik,Sports
-Okculuk,Sports
+Tenis Turnuvası,Sports
+Kampçılık,Sports
+Okçuluk,Sports
 Sporcu Beslenmesi,Sports
-Kosu Maratonu,Sports
-Motor Sporlari,Sports
+Koşu Maratonu,Sports
+Motor Sporları,Sports
 Voleybol,Sports
-Sirt Cantali Seyahat,Travel
+Sırt Çantalı Seyahat,Travel
 Ekoturizm,Travel
-Kulturel Turlar,Travel
+Kültürel Turlar,Travel
 Sanat Gezileri,Travel
 Macera Seyahati,Travel
 Gurme Turizm,Travel
 Tarih Turizmi,Travel
 Kamp Ve Karavan,Travel
 Deniz Turizmi,Travel
-Sehir Turlari,Travel
-Dag Yuruyusu,Travel
+Şehir Turları,Travel
+Dağ Yürüyüşü,Travel
 Foto Safari,Travel
-Festival Turlari,Travel
-Yurtdisi Deneyimleri,Travel
-Yerel Lezzet Turlari,Travel
+Festival Turları,Travel
+Yurtdışı Deneyimleri,Travel
+Yerel Lezzet Turları,Travel
 Eko Lodglar,Travel
 Spor Turizmi,Travel
-Bisiklet Turlari,Travel
-Luks Seyahat,Travel
-Kultur Mirası Gezileri,Travel
-Uzaktan Egitim,Education
-Liderlik Egitimi,Business
-STEM Programlari,Education
-Egitim Teknolojileri,Education
-Akademik Yazim,Education
-Cocuk Gelisimi,Education
-Universite Hazirlik,Education
-Sinav Stratejileri,Education
-Dil Ogrenimi,Education
-Ogrenme Psikolojisi,Education
-Mesleki Egitim,Education
-Disiplinlerarasi Egitim,Education
-Erken Cocukluk Egitimi,Education
-Sertifika Programlari,Education
-Elestirel Dusunme,Education
-Mentorluk Programlari,Education
+Bisiklet Turları,Travel
+Lüks Seyahat,Travel
+Kültür Mirası Gezileri,Travel
+Uzaktan Eğitim,Education
+Liderlik Eğitimi,Business
+STEM Programları,Education
+Eğitim Teknolojileri,Education
+Akademik Yazım,Education
+Çocuk Gelişimi,Education
+Üniversite Hazırlık,Education
+Sınav Stratejileri,Education
+Dil Öğrenimi,Education
+Öğrenme Psikolojisi,Education
+Mesleki Eğitim,Education
+Disiplinlerarası Eğitim,Education
+Erken Çocukluk Eğitimi,Education
+Sertifika Programları,Education
+Eleştirel Düşünme,Education
+Mentörlük Programları,Education
 Kariyer Planlama,Business
-Egitim Sosyolojisi,Education
+Eğitim Sosyolojisi,Education
 Akademik Konferanslar,Education
-Ogrenci Koclugu,Education
+Öğrenci Koçluğu,Education
 Yoga Meditasyonu,Health
 Aromaterapi,Health
 Refleksoloji,Health
 Bitkisel Tedavi,Health
-Saglikli Beslenme,Health
+Sağlıklı Beslenme,Health
 Nefes Egzersizleri,Health
-Mental Saglik,Health
+Mental Sağlık,Health
 Fiziksel Rehabilitasyon,Health
-Kisisel Gelisim,Health
-Alternatif Tip,Health
+Kişisel Gelişim,Health
+Alternatif Tıp,Health
 Kriyoterapi,Health
 Sporcu Rehabilitasyonu,Health
-Stres Yonetimi,Health
+Stres Yönetimi,Health
 Biyoenerji,Health
-Detoks Programlari,Health
+Detoks Programları,Health
 Uyku Hijyeni,Health
-Kadin Sagligi,Health
+Kadın Sağlığı,Health
 Meditasyon Teknikleri,Health
-Sifa Sanati,Health
-Zihin Beden Baglantisi,Health
+Şifa Sanatı,Health
+Zihin Beden Bağlantısı,Health
 Girişimcilik,Business
 Pazarlama Stratejileri,Business
 Sosyal Sorumluluk,Other
-Iklim Degişikligi,Other
-Kriz Yonetimi,Business
-Kulturel Farkindalik,Other
+İklim Değişikliği,Other
+Kriz Yönetimi,Business
+Kültürel Farkındalık,Other
 Bireysel Finans,Business
-Teknoloji Etigi,Technology
+Teknoloji Etiği,Technology
 Toplumsal Cinsiyet,Other
 Toplum Hizmeti,Other
-Gonulluluk,Other
-Finansal Okuryazarlik,Business
+Gönüllülük,Other
+Finansal Okuryazarlık,Business
 Medya Analizi,Other
 Hukuk Reformu,Other
-Gayrimenkul Yatirimi,Business
-Sosyal Bilimler Arastirmalari,Education
-Veri Gizliligi,Technology
-Dijital Donusum,Technology
-Kariyer Gelisimi,Business
-Kulturel Politikalar,Other
+Gayrimenkul Yatırımı,Business
+Sosyal Bilimler Araştırmaları,Education
+Veri Gizliliği,Technology
+Dijital Dönüşüm,Technology
+Kariyer Gelişimi,Business
+Kültürel Politikalar,Other
 Vaporwave,Music
 Synthpop,Music
 New Age,Music
@@ -381,145 +380,145 @@ Pop Punk,Music
 Britpop,Music
 Post Hardcore,Music
 Siber Fizik,Technology
-Veri Muhendisligi,Technology
-Dogal Dil Isleme,Technology
-Derin Ogrenme,Technology
+Veri Mühendisliği,Technology
+Doğal Dil İşleme,Technology
+Derin Öğrenme,Technology
 Bilgisayar Grafikleri,Technology
-Gomulu Sistemler,Technology
-Kritik Altyapilar,Technology
-Yapay Sinir Aglari,Technology
+Gömülü Sistemler,Technology
+Kritik Altyapılar,Technology
+Yapay Sinir Ağları,Technology
 Sanal Asistanlar,Technology
-Yapay Goru,Technology
+Yapay Görü,Technology
 Oyun Fizikleri,Technology
-Veri Madenciligi,Technology
-Bilgi Guvenligi,Technology
+Veri Madenciliği,Technology
+Bilgi Güvenliği,Technology
 Veri Depolama,Technology
 Mobil Sistemler,Technology
-Yazilim Mimari,Technology
+Yazılım Mimarı,Technology
 Sistem Analizi,Technology
-Makine Ogrenimi,Technology
-Buyuk Veri,Technology
+Makine Öğrenimi,Technology
+Büyük Veri,Technology
 Robotik Kollaborasyon,Technology
 Keto Diyet,Food & Drink
 Yerel Tatlar,Food & Drink
-Super Gidalar,Food & Drink
-Tatli Susleme,Food & Drink
+Süper Gıdalar,Food & Drink
+Tatlı Süsleme,Food & Drink
 Gurme Mutfak,Food & Drink
-Deniz Urunleri,Food & Drink
-Vegan Tatlilar,Food & Drink
-Baharat Kullanimi,Food & Drink
-Soguk Icecekler,Food & Drink
-Pisme Teknikleri,Food & Drink
-Peynir Cesitleri,Food & Drink
-Yoresel Corbalar,Food & Drink
-Sef Yarismalari,Food & Drink
-Yemek Fotografciligi,Food & Drink
-Restoran Yonetimi,Business
+Deniz Ürünleri,Food & Drink
+Vegan Tatlılar,Food & Drink
+Baharat Kullanımı,Food & Drink
+Soğuk İçecekler,Food & Drink
+Pişme Teknikleri,Food & Drink
+Peynir Çeşitleri,Food & Drink
+Yöresel Çorbalar,Food & Drink
+Şef Yarışmaları,Food & Drink
+Yemek Fotoğrafçılığı,Food & Drink
+Restoran Yönetimi,Business
 Kahve Demleme Teknikleri,Food & Drink
-Cikolata Sanati,Food & Drink
-Barista Kurslari,Food & Drink
-Fast Food Kulturu,Food & Drink
-Zeytinyagi Uretimi,Food & Drink
+Çikolata Sanatı,Food & Drink
+Barista Kursları,Food & Drink
+Fast Food Kültürü,Food & Drink
+Zeytinyağı Üretimi,Food & Drink
 Crossfit,Sports
 Kaykay,Sports
 Parkur,Sports
-Bisiklet Turlari,Sports
-Yamac Parasutu,Sports
+Bisiklet Turları,Sports
+Yamaç Paraşütü,Sports
 Su Topu,Sports
 Rugby,Sports
 Kickboks,Sports
 MMA,Sports
-Eski Olimpiyat Sporlari,Sports
-Motor Yarislari,Sports
+Eski Olimpiyat Sporları,Sports
+Motor Yarışları,Sports
 Extreme Sporlar,Sports
 Su Sporları,Sports
-Yaris Atciligi,Sports
-Dag Bisikleti,Sports
+Yarış Atçılığı,Sports
+Dağ Bisikleti,Sports
 Hokey,Sports
 Windsurfing,Sports
 Snowboard,Sports
 Buz Pateni,Sports
-Yelken Sorfu,Sports
-Kultur Mirası Gezileri,Travel
+Yelken Sörfü,Sports
+Kültür Mirası Gezileri,Travel
 Ekoturizm,Travel
 Gastronomi Turizmi,Travel
-Fotograf Gezileri,Travel
-Safari Turlari,Travel
+Fotoğraf Gezileri,Travel
+Safari Turları,Travel
 Macera Seyahatleri,Travel
 Yerel Festivaller,Travel
-Sirt Cantali Geziler,Travel
-Deniz Yolculuklari,Travel
-Luks Turizm,Travel
-Dag Tirmanisi,Travel
-Kampcilik Turlari,Travel
+Sırt Çantalı Geziler,Travel
+Deniz Yolculukları,Travel
+Lüks Turizm,Travel
+Dağ Tırmanışı,Travel
+Kampçılık Turları,Travel
 Tarihi Yerler,Travel
 Bisiklet Turizmi,Travel
-Kis Turizmi,Travel
+Kış Turizmi,Travel
 Eko Lojistik,Travel
 Sanat Gezileri,Travel
-Kulturel Deneyimler,Travel
-Yerel Kulturler,Travel
-Sehir Turlari,Travel
-Dijital Egitim,Education
-Yapay Zeka Egitimi,Education
+Kültürel Deneyimler,Travel
+Yerel Kültürler,Travel
+Şehir Turları,Travel
+Dijital Eğitim,Education
+Yapay Zeka Eğitimi,Education
 Mesleki Kurslar,Education
-Cocuk Psikolojisi,Education
-Bilim Egitimi,Education
-Dil Okullari,Education
-Yaratici Yazarlik,Education
-Egitim Psikolojisi,Education
-Matematik Egitimi,Education
-Ogrenme Teknolojileri,Education
-Egitim Yonetimi,Education
-Isaret Dili Egitimi,Education
-Sertifikasyon Programlari,Education
-Ozel Egitim,Education
-STEM Atolyeleri,Education
+Çocuk Psikolojisi,Education
+Bilim Eğitimi,Education
+Dil Okulları,Education
+Yaratıcı Yazarlık,Education
+Eğitim Psikolojisi,Education
+Matematik Eğitimi,Education
+Öğrenme Teknolojileri,Education
+Eğitim Yönetimi,Education
+İşaret Dili Eğitimi,Education
+Sertifikasyon Programları,Education
+Özel Eğitim,Education
+STEM Atölyeleri,Education
 Uzaktan Kurslar,Education
-Liderlik Gelisimi,Business
-Beceri Gelistirme,Education
-Egitimde Yenilikler,Education
-Mentorluk,Education
+Liderlik Gelişimi,Business
+Beceri Geliştirme,Education
+Eğitimde Yenilikler,Education
+Mentörlük,Education
 Homeopati,Health
 Nefes Teknikleri,Health
 Holistik Terapi,Health
 Biofeedback,Health
 Ayran Terapisi,Health
-Dogal Kozmetik,Health
+Doğal Kozmetik,Health
 Spor Fizyoterapisi,Health
 Reiki,Health
-Saglikli Yasam Tarzi,Health
+Sağlıklı Yaşam Tarzı,Health
 Ayurveda,Health
-Detoks Yontemleri,Health
+Detoks Yöntemleri,Health
 Alternatif Tedavi,Health
-Mental Saglik Programlari,Health
+Mental Sağlık Programları,Health
 Zihin Beden Denge,Health
 Vitamin Tedavisi,Health
 Fizik Tedavi,Health
 Aromatik Bitkiler,Health
-Yasam Koclugu,Health
-Kisisel Bakim,Health
-Geleneksel Sifa,Health
-Kriz Yonetimi,Business
-Toplumsal Cinsiyet Calismalari,Other
-Gonulluluk Programlari,Other
-Sosyal Girisimler,Business
+Yaşam Koçluğu,Health
+Kişisel Bakım,Health
+Geleneksel Şifa,Health
+Kriz Yönetimi,Business
+Toplumsal Cinsiyet Çalışmaları,Other
+Gönüllülük Programları,Other
+Sosyal Girişimler,Business
 Finansal Planlama,Business
-Cevre Politikaları,Other
+Çevre Politikaları,Other
 Medya Stratejileri,Business
-Is Dunyasi Analizi,Business
-Sosyal Medya Yonetimi,Business
-Hukuk Danismanligi,Business
-Toplum Arastirmalari,Other
-Kulturel Politikalar,Other
-Kariyer Gelisimi,Business
+İş Dünyası Analizi,Business
+Sosyal Medya Yönetimi,Business
+Hukuk Danışmanlığı,Business
+Toplum Araştırmaları,Other
+Kültürel Politikalar,Other
+Kariyer Gelişimi,Business
 Dijital Pazarlama,Business
-Veri Gizliligi,Technology
-Is Hayati Egitimi,Business
-Enerji Sektoru,Business
-Multeciler Ve Goc,Other
-Teknoloji Etik,Technology
-Inovasyon Yonetimi,Business
+Veri Gizliliği,Technology
+İş Hayatı Eğitimi,Business
+Enerji Sektörü,Business
+Mülteciler Ve Göç,Other
+Teknoloji Etiği,Technology
+İnovasyon Yönetimi,Business
 Yüksek Öğretim,Education
 İlköğretim,Education
 Ortaöğretim,Education
@@ -1998,7 +1997,7 @@ Indie Pop,Music
 Synth Pop,Music
 Dark Wave,Music
 Cold Wave,Music
-Endustriyel Muzik,Music
+Endüstriyel Müzik,Music
 EBM,Music
 Minimal Tekno,Music
 Deep House,Music
@@ -2020,12 +2019,12 @@ Mumble Rap,Music
 Bilinc Hip Hop,Music
 Eski Okul Hip Hop,Music
 Turntablism,Music
-Breakdans Muzigi,Music
-Caz Muzigi,Music
+Breakdans Müziği,Music
+Caz Müziği,Music
 Bebop,Music
 Cool Jazz,Music
 Serbest Caz,Music
-Yumusak Caz,Music
+Yumuşak Caz,Music
 Latin Caz,Music
 Acid Jazz,Music
 Nu Jazz,Music
@@ -2042,25 +2041,25 @@ Merengue,Music
 Cumbia,Music
 Tango,Music
 Fado,Music
-Kelt Muzigi,Music
-Nordik Halk Muzigi,Music
+Kelt Müziği,Music
+Nordik Halk Müziği,Music
 Americana,Music
-Turk Halk Muzigi,Music
-Turk Klasik Muzigi,Music
+Türk Halk Müziği,Music
+Türk Klasik Müziği,Music
 Arabesk,Music
-Turk Pop,Music
-Turk Rock,Music
+Türk Pop,Music
+Türk Rock,Music
 Anadolu Rock,Music
-Turku,Music
-Ozgun Muzik,Music
-Fantezi Muzik,Music
-Tasavvuf Muzigi,Music
-Dini Muzik,Music
+Türkü,Music
+Özgün Müzik,Music
+Fantazi Müziği,Music
+Tasavvuf Müziği,Music
+Dini Müziği,Music
 Marş,Music
-Cocuk Sarkilari,Music
+Çocuk Şarkıları,Music
 Ninni,Music
-Dugun Muzigi,Music
-Halk Oyunlari Muzigi,Music
+Düğün Müziği,Music
+Halk Oyunları Müziği,Music
 Gazel,Music
 Sirto,Music
 Zeybek,Music
