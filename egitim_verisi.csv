@@ -2289,7 +2289,7 @@ Yoga,Sports
 Pilates,Sports
 Tai Chi,Sports
 Qigong,Sports
-Meditasyon,Sports
+Meditasyon,Health & Wellness
 Stretching,Sports
 Zumba,Sports
 Aerobik,Sports
@@ -2463,10 +2463,10 @@ Metabolizma Hızlandırma,Health & Wellness
 Kilo Verme,Health & Wellness
 Kilo Alma,Health & Wellness
 Yağ Yakma,Health & Wellness
-Kas Yapma,Health & Wellness
-Fitness Planlama,Health & Wellness
+Kas Yapma,Sports
+Fitness Planlama,Sports
 Ev Egzersizleri,Health & Wellness
-Kardiyo Egzersizleri,Health & Wellness
+Kardiyo Egzersizleri,Sports
 Güç Antrenmanı,Health & Wellness
 Esneklik Antrenmanı,Health & Wellness
 Postür Düzeltme,Health & Wellness
@@ -3759,7 +3759,6 @@ Sporcu Hakları Semineri,Sports
 Spor Etkinlikleri Gönüllülük Programları,Sports
 E-spor Turnuva Finali,Sports
 Sporcular İçin Beslenme Atölyesi,Sports
-
 Modern Sanat Sergisi,Art & Culture
 Klasik Müzik Konseri,Art & Culture
 Opera Gecesi,Art & Culture
@@ -4191,15 +4190,15 @@ Diyetisyen Destekli Mutfak,Food & Drink
 Evcil Hayvan Ürünleri,Other
 Bahçe Dekorasyonu,Other
 Araç Kiralama Hizmetleri,Other
-Sigorta Danışmanlığı,Other
-Kargo ve Lojistik Hizmetleri,Other
-Emlak Danışmanlığı,Other
+Sigorta Danışmanlığı,Business
+Kargo ve Lojistik Hizmetleri,Business
+Emlak Danışmanlığı,Business
 Temizlik Hizmetleri,Other
 Ev Taşıma Hizmetleri,Other
 Mobilya Montajı,Other
 Geri Dönüşüm Projeleri,Other
 Kişisel Finans Yönetimi,Other
-Yasal Danışmanlık,Other
+Yasal Danışmanlık,Business
 İşyeri Güvenliği,Other
 Asansör Bakımı,Other
 Yangın Tesisatı Hizmetleri,Other
@@ -4208,7 +4207,7 @@ Bahçe Sulama Sistemleri,Other
 Çilingir Hizmetleri,Other
 Oto Yıkama Hizmetleri,Other
 Akaryakıt İstasyonu Hizmetleri,Other
-Tercüme Hizmetleri,Other
+Tercüme Hizmetleri,Business
 Gölgelendirme Sistemleri,Other
 Çöp Toplama ve Atık Yönetimi,Other
 İnşaat Malzemeleri,Other
@@ -4236,7 +4235,7 @@ Toprak Analizi Hizmeti,Other
 Pencere Tamiri,Other
 Duvar Kağıdı Hizmeti,Other
 Asansör Ruhsatlandırma,Other
-Hukuki Arabuluculuk,Other
+Hukuki Arabuluculuk,Business
 Telsiz ve Anten Kurulumu,Other
 Kablo Kanalı Montajı,Other
 Yapı Denetim Hizmetleri,Other
@@ -4253,9 +4252,9 @@ Asfalt Kaplama Hizmetleri,Other
 Beton Test Laboratuvarı,Other
 Cephe Giydirme,Other
 Yangın Tatbikatı Organizasyonu,Other
-Araç Takip Sistemi,Other
-Uçuş Simülasyon Eğitimi,Other
-Şirket Kurulum Danışmanlığı,Other
+Araç Takip Sistemi,Technology
+Uçuş Simülasyon Eğitimi,Education
+Şirket Kurulum Danışmanlığı,Business
 Antika Değerleme Hizmeti,Other
 Tarım Ekipmanları Satışı,Other
 Çim Biçme Hizmeti,Other
@@ -4263,10 +4262,10 @@ Jeoloji Danışmanlığı,Other
 Kombi Dönüşüm Hizmetleri,Other
 Panel Çit Kurulumu,Other
 Su Tesisatı Acil Müdahale,Other
-Dijital Reklam Panosu Kurulumu,Other
+Dijital Reklam Panosu Kurulumu,Technology
 Tavan Asma Sistemleri,Other
 Gemi Kargo Hizmetleri,Other
-Vinç Sertifikası Eğitimi,Other
+Vinç Sertifikası Eğitimi,Education
 Konteyner Gemi Lojistiği,Other
 Dijital Harita Yapımı,Other
 Kauçuk Zemin Kaplama,Other
@@ -4296,7 +4295,7 @@ Müteahhitlik Hizmetleri,Other
 Kireç Temizleme Servisi,Other
 Beton Delme Kesme Hizmeti,Other
 Maden Ruhsat Danışmanlığı,Other
-Cep Telefonu Tamiri,Other
+Cep Telefonu Tamiri,Technology
 Sanayi Tipi Elektrik Panosu,Other
 Endüstriyel Mutfak Kurulumu,Other
 Hurdacılık Hizmeti,Other
@@ -4309,7 +4308,7 @@ Açık Alan Güvenlik Sistemleri,Other
 Hayvan Küpeleme Hizmeti,Other
 Mühendislik Belgelendirme,Other
 Evcil Hayvan Oyuncakları,Other
-Köpek Eğitimi ve Davranış Analizi,Other
+Köpek Eğitimi ve Davranış Analizi,Education
 Atık Yağ Toplama Hizmeti,Other
 Moloz Atım Hizmeti,Other
 Sanayi Elektrik Tesisatı,Other
@@ -4323,7 +4322,7 @@ Seramik Yapıştırıcısı Satışı,Other
 Meyve Paketleme Tesis Hizmeti,Other
 İnşaat Güvenliği Eğitimi,Other
 Kuyu Suyu Analizi,Other
-Kamu İhale Danışmanlığı,Other
+Kamu İhale Danışmanlığı,Business
 Araç Plaka Basım Hizmeti,Other
 Endüstriyel Soğutma Sistemleri,Other
 Gece Bekçisi Hizmeti,Other
@@ -4340,7 +4339,7 @@ Asfalt Yama Hizmeti,Other
 Serinletici Fan Kurulumu,Other
 Isıtıcı Infrared Kurulumu,Other
 Havalandırma Kanalı Temizliği,Other
-Akıllı Ev Sistemleri Kurulumu,Other
+Akıllı Ev Sistemleri Kurulumu,Technology
 Endüstriyel Yangın Söndürme,Other
 Kumlama Hizmeti,Other
 Vinç Operatörü Belgesi,Other
@@ -4442,3 +4441,348 @@ Hafızasız Tiyatro Kurgusu,Other
 Koku Yoluyla Rehberlik Sistemleri,Other
 Titreşimle Eğitim Materyalleri,Other
 Gelecekten Gelen Takvimler,Other
+Güneş Paneli Kurulum Danışmanlığı,Business
+Hayvanat Bahçesi Enerji Yönetimi,Business
+Yenilenebilir Enerji Projeleri,Business
+Kurumsal Güneş Enerjisi Çözümleri,Business
+İşletmeler için Enerji Verimliliği,Business
+Güneş Paneli Bakım ve Destek Hizmeti,Business
+Hayvanat Bahçesi Sürdürülebilirlik Projesi,Business
+Ticari Güneş Paneli Sistemleri,Business
+Enerji Tasarrufu Stratejileri,Business
+Kurumsal Çevre Politikaları,Business
+Güneş Enerjisi Finansman Modelleri,Business
+Hayvanat Bahçesi İşletme Planlaması,Business
+Yenilenebilir Enerji Yatırım Danışmanlığı,Business
+Enerji Sektörü Analiz Raporları,Business
+İş Güvenliği ve Çevre Yönetimi,Business
+Ticari Enerji Sistemleri Tasarımı,Business
+Güneş Paneli Proje Yönetimi,Business
+Kurumsal Sosyal Sorumluluk Projeleri,Business
+Hayvanat Bahçesi Teknoloji Entegrasyonu,Business
+Yenilenebilir Enerji Eğitim Seminerleri,Business
+Enerji Verimliliği Değerlendirme Hizmetleri,Business
+Kurumsal Yenilenebilir Enerji Stratejileri,Business
+Ticari Güneş Paneli Montaj Hizmetleri,Business
+Enerji Sektörü Yasal Düzenlemeleri,Business
+Hayvanat Bahçesi Yönetim Eğitimi,Business
+İşletmeler için Sürdürülebilirlik Raporları,Business
+Yenilenebilir Enerji Sistemleri Analizi,Business
+Güneş Enerjisi Teknolojileri Buluşmaları,Business
+Kurumsal Enerji Danışmanlığı,Business
+Hayvanat Bahçesi İşletme Geliştirme,Business
+Enerji Sektörü Yatırım Fırsatları,Business
+Ticari Güneş Paneli Bakım Anlaşmaları,Business
+Yenilenebilir Enerji Finansal Modelleri,Business
+İşletme Verimliliği Artırma Programları,Business
+Güneş Paneli Pazar Araştırmaları,Business
+Kurumsal Enerji Tasarruf Projeleri,Business
+Hayvanat Bahçesi Finansman Planları,Business
+Enerji Yönetimi Yazılım Çözümleri,Business
+Yenilenebilir Enerji İş Modelleri,Business
+Ticari Güneş Paneli Proje Finansmanı,Business
+Kurumsal Çevre ve Enerji Politikaları,Business
+Hayvanat Bahçesi Performans Değerlendirmesi,Business
+Enerji Verimliliği Uygulamaları,Business
+Yenilenebilir Enerji İnovasyonları,Business
+Güneş Enerjisi Sektör Konferansları,Business
+Kurumsal Enerji Verimliliği Eğitimleri,Business
+Hayvanat Bahçesi Risk Yönetimi,Business
+Enerji Sektörü Strateji Planlaması,Business
+İşletme Geliştirme ve Sürdürülebilirlik,Business
+Ticari Güneş Paneli Üretim Tesisleri,Business
+Yenilenebilir Enerji Pazarlama Stratejileri,Business
+Kurumsal Enerji Yönetimi Sistemleri,Business
+Hayvanat Bahçesi Operasyon Yönetimi,Business
+Enerji Verimliliği Raporlama Hizmetleri,Business
+Yenilenebilir Enerji Finansmanı Seminerleri,Business
+Güneş Paneli Proje Değerlendirme,Business
+Kurumsal Sosyal Sorumluluk Raporları,Business
+Hayvanat Bahçesi Eğitim Programları,Business
+Enerji Sektörü Mevzuat Eğitimleri,Business
+İşletmeler için Yenilenebilir Enerji,Business
+Ticari Güneş Paneli Tasarım Çalışmaları,Business
+Yenilenebilir Enerji Yatırımcı Buluşmaları,Business
+Kurumsal Enerji Performans İzleme,Business
+Hayvanat Bahçesi Sürdürülebilirlik Raporları,Business
+Enerji Verimliliği Proje Yönetimi,Business
+Yenilenebilir Enerji Ürün Geliştirme,Business
+Güneş Paneli Teknik Destek Hizmetleri,Business
+Kurumsal Çevre Proje Danışmanlığı,Business
+Hayvanat Bahçesi Yönetim Kurulu Toplantısı,Business
+Enerji Sektörü Rekabet Analizi,Business
+İşletme Finansmanı ve Enerji Yatırımları,Business
+Ticari Güneş Paneli Satış ve Pazarlama,Business
+Yenilenebilir Enerji Teknoloji Fuarları,Business
+Kurumsal Enerji Tasarrufu Danışmanlığı,Business
+Hayvanat Bahçesi Stratejik Planlama,Business
+Enerji Verimliliği Denetimleri,Business
+Yenilenebilir Enerji Sektör Raporları,Business
+Güneş Paneli Montaj Eğitimi,Business
+Kurumsal Enerji Tasarım Projeleri,Business
+Hayvanat Bahçesi Performans İzleme,Business
+Enerji Sektörü İş Birliği Toplantıları,Business
+İşletme Sürdürülebilirlik Projeleri,Business
+Ticari Güneş Paneli Proje Koordinasyonu,Business
+Yenilenebilir Enerji Yasal Danışmanlığı,Business
+Kurumsal Enerji Raporlama Sistemleri,Business
+Hayvanat Bahçesi Finansal Planlama,Business
+Enerji Verimliliği Araştırma ve Geliştirme,Business
+Yenilenebilir Enerji Sektör İnovasyonları,Business
+Güneş Paneli Kurulum Sertifikasyonları,Business
+Kurumsal Çevre Danışmanlığı Hizmetleri,Business
+Hayvanat Bahçesi İş Sürekliliği Planı,Business
+Enerji Sektörü Stratejik Ortaklıklar,Business
+İşletmeler için Enerji Verimliliği Projeleri,Business
+Ticari Güneş Paneli Teknik Analizleri,Business
+Yenilenebilir Enerji Yatırım Analizleri,Business
+Kurumsal Enerji Performans Yönetimi,Business
+Hayvanat Bahçesi Çevre Etki Değerlendirmesi,Business
+Enerji Verimliliği Proje Finansmanı,Business
+Yenilenebilir Enerji Teknoloji Güncellemeleri,Business
+Güneş Paneli Montaj Proje Yönetimi,Business
+Kurumsal Sosyal Sorumluluk Eğitimleri,Business
+Hayvanat Bahçesi Sürdürülebilir İş Modelleri,Business
+Enerji Sektörü Finansal Modeller,Business
+İşletme Verimliliği ve Enerji Yönetimi,Business
+Ticari Güneş Paneli Satış Stratejileri,Business
+Yenilenebilir Enerji İnovasyon Projeleri,Business
+Kurumsal Enerji Tasarrufu Projeleri,Business
+Hayvanat Bahçesi İş Geliştirme Seminerleri,Business
+Enerji Verimliliği Çözümleri,Business
+Yenilenebilir Enerji Finansman Kaynakları,Business
+Güneş Paneli Teknik Destek ve Bakım,Business
+Kurumsal Enerji Yönetimi ve Kontrol,Business
+Hayvanat Bahçesi Stratejik İş Planı,Business
+Enerji Sektörü İşbirliği Projeleri,Business
+İşletme Sürdürülebilirlik Yönetimi,Business
+Ticari Güneş Paneli Kurulum Planlaması,Business
+Yenilenebilir Enerji Yatırım Stratejileri,Business
+Kurumsal Enerji Performans Analizi,Business
+Hayvanat Bahçesi Çevresel Yönetim,Business
+Enerji Verimliliği ve Tasarruf Teknikleri,Business
+Yenilenebilir Enerji Sektöründe Yenilikler,Business
+Güneş Paneli Proje Değerlendirme Raporları,Business
+Kurumsal Çevre Politikaları ve Uygulamaları,Business
+Hayvanat Bahçesi Operasyonel Optimizasyon,Business
+Enerji Sektörü Yasal Düzenleme Analizleri,Business
+İşletmeler İçin Yenilenebilir Enerji Eğitimleri,Business
+Ticari Güneş Paneli Sistemleri Tasarımı,Business
+Yenilenebilir Enerji Proje Finansmanı Modelleri,Business
+Kurumsal Enerji Tasarrufu ve Yönetimi,Business
+Hayvanat Bahçesi Sürdürülebilirlik Eğitimi,Business
+Enerji Verimliliği İzleme Sistemleri,Business
+Yenilenebilir Enerji İş Fırsatları,Business
+Güneş Paneli Kurulum Teknikleri,Business
+Kurumsal Enerji Danışmanlığı ve Destek,Business
+Hayvanat Bahçesi Finansman Yönetimi,Business
+Enerji Sektörü Strateji ve Planlama,Business
+İşletme Geliştirme ve Enerji Verimliliği,Business
+Ticari Güneş Paneli Üretim ve Satış,Business
+Yenilenebilir Enerji Teknolojileri ve Uygulamaları,Business
+Kurumsal Enerji Performans Raporlama,Business
+Hayvanat Bahçesi İşletme Yönetimi,Business
+Enerji Verimliliği Proje Değerlendirmesi,Business
+Yenilenebilir Enerji Finansal Analizleri,Business
+Güneş Paneli Montaj ve Bakım Eğitimi,Business
+Kurumsal Sosyal Sorumluluk ve Enerji,Business
+Hayvanat Bahçesi Stratejik Gelişim Planı,Business
+Enerji Sektörü İş Geliştirme,Business
+İşletme Sürdürülebilirlik ve Enerji,Business
+Ticari Güneş Paneli Proje Yönetimi,Business
+Yenilenebilir Enerji Yatırım Danışmanlığı,Business
+Kurumsal Enerji Verimliliği ve Kontrol,Business
+Hayvanat Bahçesi Çevre Proje Yönetimi,Business
+Enerji Verimliliği Danışmanlık Hizmetleri,Business
+Yenilenebilir Enerji Sektöründe İş Fırsatları,Business
+Güneş Paneli Kurulum Proje Planlaması,Business
+Kurumsal Çevre ve Enerji Politikaları,Business
+Hayvanat Bahçesi Operasyon Yönetimi ve Planlama,Business
+Enerji Sektörü Finansman ve Yatırım,Business
+İşletme Enerji Yönetimi ve Optimizasyonu,Business
+Ticari Güneş Paneli Satış ve Destek,Business
+Yenilenebilir Enerji Teknoloji Geliştirme,Business
+Kurumsal Enerji Tasarrufu Proje Yönetimi,Business
+Hayvanat Bahçesi İş Geliştirme ve Yönetim,Business
+Enerji Verimliliği Eğitim Programları,Business
+Yenilenebilir Enerji Finansman Kaynakları ve Modelleri,Business
+Güneş Paneli Teknik Destek ve Proje Yönetimi,Business
+Kurumsal Enerji Yönetimi ve Raporlama,Business
+Hayvanat Bahçesi Stratejik Planlama ve Uygulama,Business
+Enerji Sektörü İşbirliği ve Geliştirme Projeleri,Business
+İşletme Sürdürülebilirlik Projeleri ve Yönetimi,Business
+Ticari Güneş Paneli Sistemleri ve Kurulum,Business
+Yenilenebilir Enerji Yatırım Stratejileri ve Danışmanlığı,Business
+Kurumsal Enerji Performans Analizi ve Raporlama,Business
+Hayvanat Bahçesi Çevresel Yönetim ve Sürdürülebilirlik,Business
+Enerji Verimliliği ve Tasarruf Teknikleri,Business
+Yenilenebilir Enerji Sektöründeki Yenilikler ve Gelişmeler,Business
+"Finansal Danışmanlık Hizmetleri",Business
+"Yatırım Yönetimi",Business
+"İnsan Kaynakları Danışmanlığı",Business
+"Şirket Kuruluş Danışmanlığı",Business
+"Pazarlama Stratejisi Geliştirme",Business
+"İş Süreçleri Optimizasyonu",Business
+"Vergi Danışmanlığı",Business
+"İş Hukuku Danışmanlığı",Business
+"Risk Yönetimi",Business
+"Kurumsal Eğitim Programları",Business
+"CRM Yazılımı Satışı",Business
+"Reklam Ajansı Hizmetleri",Business
+"İş Zekası Çözümleri",Business
+"Finansal Teknolojiler (FinTech)",Business
+"Proje Yönetimi Danışmanlığı",Business
+"Yönetim Danışmanlığı",Business
+"Dijital Dönüşüm Danışmanlığı",Business
+"Startup Mentorluk Hizmetleri",Business
+"Franchise Danışmanlığı",Business
+"Marka Yönetimi",Business
+"Satış Stratejileri Geliştirme",Business
+"E-Ticaret Danışmanlığı",Business
+"Uluslararası Ticaret Danışmanlığı",Business
+"Patent ve Marka Tescili",Business
+"Kurumsal Sosyal Sorumluluk Projeleri",Business
+"İş Geliştirme Hizmetleri",Business
+"Operasyon Yönetimi",Business
+"İnovasyon Danışmanlığı",Business
+"Performans Değerlendirme Sistemleri",Business
+"İş Analizi ve Modelleme",Business
+"Veri Analitiği Danışmanlığı",Business
+"Satın Alma ve Tedarik Zinciri Yönetimi",Business
+"Kurumsal İletişim Danışmanlığı",Business
+"Çalışan Motivasyon Programları",Business
+"Ofis Yönetimi",Business
+"Finansal Raporlama",Business
+"Kurumsal Risk Analizi",Business
+"İş Etiği Danışmanlığı",Business
+"Kalite Yönetim Sistemleri",Business
+"Çevre ve Sürdürülebilirlik Danışmanlığı",Business
+"Kurumsal Hukuk Hizmetleri",Business
+"Kurumsal Finansman",Business
+"Yatırım Bankacılığı Hizmetleri",Business
+"İş Modeli Geliştirme",Business
+"Kriz Yönetimi",Business
+"Teknoloji Danışmanlığı",Business
+"Kurumsal Teknoloji Entegrasyonu",Business
+"Finansal Planlama",Business
+"Yönetici Koçluğu",Business
+"Şirket Değerleme Hizmetleri",Business
+"Startup Finansmanı Danışmanlığı",Business
+"İş Sürekliliği Planlaması",Business
+"Yatırımcı İlişkileri Yönetimi",Business
+"İşletme Stratejisi Geliştirme",Business
+"Marka İmaj Yönetimi",Business
+"Personel Seçme ve Yerleştirme",Business
+"Çalışan Eğitimi ve Gelişimi",Business
+"Kurumsal Sosyal Medya Yönetimi",Business
+"Pazar Araştırması Hizmetleri",Business
+"Uluslararası Pazarlama",Business
+"Kurumsal Satın Alma Danışmanlığı",Business
+"İş Güvenliği Danışmanlığı",Business
+"Proje Finansmanı",Business
+"Yönetim Sistemleri Entegrasyonu",Business
+"İşveren Danışmanlığı",Business
+"Kurumsal Etkinlik Yönetimi",Business
+"İş Performans Analizi",Business
+"İş Hukuku Eğitimleri",Business
+"Küresel İş Stratejileri",Business
+"Online Pazarlama Danışmanlığı",Business
+"Kurumsal Blog Yönetimi",Business
+"Yönetim Danışmanlığı Yazılımı",Business
+"İş İnovasyonu ve Teknoloji",Business
+"Şirket İçi İletişim",Business
+"İşletme Yönetimi Danışmanlığı",Business
+"İş Stratejisi Danışmanlığı",Business
+"Yatırımcı Sunumları Hazırlama",Business
+"Kurumsal Sosyal Sorumluluk Raporları",Business
+"İş Hukuku Uyumluluk Danışmanlığı",Business
+"Kariyer Planlama ve Danışmanlık",Business
+"Ürün Yönetimi Danışmanlığı",Business
+"Finansal Risk Analizi",Business
+"Kurumsal Girişimcilik Programları",Business
+"Satış ve Pazarlama Otomasyonu",Business
+"Kurumsal Yenilikçilik Yönetimi",Business
+"Kurumsal İşletme Analizi",Business
+"Stratejik İnsan Kaynakları",Business
+"Kurumsal Sosyal Sorumluluk Kampanyaları",Business
+"İş Değeri ve Performans Yönetimi",Business
+"Teknoloji Pazarlaması",Business
+"Yönetim Danışmanlığı Projeleri",Business
+"Finansal Teknoloji Startupları",Business
+"Kurumsal Finans Yönetimi",Business
+"Yönetici Eğitimi ve Gelişimi",Business
+"Kurumsal İş Süreçleri",Business
+"İş Performans Yönetimi",Business
+"Satış Performansı Yönetimi",Business
+"Yönetim Danışmanlığı Araçları",Business
+"İş Analitiği",Business
+"Kurumsal İnovasyon",Business
+"Stratejik Yönetim",Business
+"İş Yönetimi Danışmanlığı",Business
+"İşletme Performans Değerlendirme",Business
+"Kurumsal Eğitim ve Gelişim",Business
+"Pazarlama Danışmanlığı",Business
+"Kurumsal Sosyal Sorumluluk Projeleri Yönetimi",Business
+"Finansal Analiz",Business
+"Kurumsal Operasyonlar Yönetimi",Business
+"İş ve Yönetim Danışmanlığı",Business
+"Kurumsal Risk Yönetimi",Business
+"İş Stratejisi Planlaması",Business
+"Satış ve Pazarlama Stratejileri",Business
+"Kurumsal Müşteri Yönetimi",Business
+"Yönetim ve Liderlik Gelişimi",Business
+"İşletme Danışmanlığı",Business
+"İş Süreci İyileştirme",Business
+"Kurumsal Pazarlama Stratejileri",Business
+"İş Yönetimi ve Operasyonları",Business
+"Satış Yönetimi Danışmanlığı",Business
+"Yönetim Danışmanlığı Hizmetleri",Business
+"Kurumsal Finansal Yönetim",Business
+"İş Geliştirme ve Strateji",Business
+"Satış Performans Analizi",Business
+"İş Planı Hazırlama",Business
+"Kurumsal Müşteri İlişkileri",Business
+"İş Stratejileri ve Uygulamaları",Business
+"Kurumsal Eğitim Hizmetleri",Business
+"Satış ve Pazarlama Danışmanlıkları",Business
+"Yönetim ve Strateji Danışmanlığı",Business
+"Kurumsal Operasyon Yönetimi",Business
+"İş Performans ve Değerlendirme",Business
+"Satış Stratejileri Danışmanlığı",Business
+"İş ve Yönetim Planlaması",Business
+"Kurumsal Gelişim Stratejileri",Business
+"İş Süreçleri ve Yönetimi",Business
+"Satış ve Müşteri Yönetimi",Business
+"Yönetim ve İş Danışmanlığı",Business
+"Kurumsal Finansman ve Yönetim",Business
+"İş Analizleri ve Değerlendirmeleri",Business
+"Satış ve Pazarlama Yönetimi",Business
+"İşletme Stratejisi ve Planlama",Business
+"Kurumsal İnovasyon ve Gelişim",Business
+"İş Süreçleri Optimizasyonu",Business
+"Satış ve Pazarlama İyileştirme",Business
+"Yönetim ve Strateji Geliştirme",Business
+"Kurumsal Eğitim ve Planlama",Business
+"İş Performans Yönetimi Danışmanlığı",Business
+"Satış ve Müşteri İlişkileri Yönetimi",Business
+"Yönetim ve İş Stratejisi",Business
+"Kurumsal Finans ve Planlama",Business
+"İş Analizi ve Süreç Yönetimi",Business
+"Satış ve Pazarlama Analizi",Business
+"İşletme Yönetimi ve Planlama",Business
+"Kurumsal Gelişim ve Yönetim",Business
+"İş Süreçleri Değerlendirmesi",Business
+"Satış Performans ve Yönetimi",Business
+"Yönetim ve İş Geliştirme",Business
+"Kurumsal Strateji ve Planlama",Business
+"İş Performansı ve Yönetimi",Business
+"Satış ve Pazarlama Geliştirme",Business
+"Yönetim ve Liderlik Danışmanlığı",Business
+"Kurumsal Operasyon ve Yönetim",Business
+"İş ve Yönetim Optimizasyonu",Business
+"Satış ve Müşteri Deneyimi",Business
+"Yönetim ve Strateji Uygulamaları",Business
+"Kurumsal Eğitim ve Gelişim Programları",Business
+"İş Planlama ve Yönetimi",Business
+"Satış ve Pazarlama Süreçleri",Business
+"Yönetim ve İş Analitiği",Business
